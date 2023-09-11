@@ -14,9 +14,7 @@ class _DashboardState extends State<Dashboard> {
        child: Column(
          children: [
            Text("demo title123"),
-           Text("mod1"),
-           Text("added2"),
-           Text("added123"),
+           Text("added1"),
          ],
        ),
      );
