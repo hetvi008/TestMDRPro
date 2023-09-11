@@ -15,7 +15,6 @@ class _DashboardState extends State<Dashboard> {
          children: [
            Text("demo title123"),
            Text("added1"),
-           Text('add1234')
          ],
        ),
      );
